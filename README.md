@@ -14,7 +14,7 @@ I'm a ~~passionate~~ developer with experience in **HTML**, **CSS**, **JavaScrip
 - **HTML/CSS**: Building and styling responsive web pages/electron apps.
 - **JavaScript**: Bumbling projects of junk and sometimes fits needs.
 - **Lua**: Roblox anti-cheat/3rd Party tool development.
-- 
+
 Feel free to explore my repositories and reach out on da cord @ premiumfrog.#0
 
 
