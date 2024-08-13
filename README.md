@@ -5,7 +5,7 @@ I'm a ~~passionate~~ developer with experience in **HTML**, **CSS**, **JavaScrip
 
 ## 🌟 My Repositories that have some use:
 - **[AutoModBypass](https://github.com/premiumfrog/automodbypass-archived-)**: A bypass tool for Discord automod (Archived).
-- **[FreakyConverter](https://freakyconverter.vercel.app/)**: A text converter to make text Freaky.
+- **[FreakyConverter](https://freakyconverter.vercel.app/)**: A text converter to make text 𝓕𝓻𝓮𝓪𝓴𝔂.
 - **[Discord UserID Scraper](https://github.com/premiumfrog/discord-userid-scraper)**: A tool for scraping Discord user IDs.
 - **[Auto-HeightMapper](https://github.com/premiumfrog/Auto-HightMapper)**: Automates the process for heightmaps, primarily for noise/Roblox Studio.
 - **[Cross-Server Bans Bot](https://github.com/premiumfrog/Cross-Server-Bans-Bot)**: A bot to issue bans across Discord Servers.
