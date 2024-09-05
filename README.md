@@ -11,7 +11,7 @@ I'm a ~~passionate~~ developer with experience in **HTML**, **CSS**, **JavaScrip
 - **[Cross-Server Bans Bot](https://github.com/premiumfrog/Cross-Server-Bans-Bot)**: A bot to issue bans across Discord Servers.
 - 
 ## 📣 What i'm working on:
-- BetterNatroHook: Allows you to view the progres of your natro macro from a website
+- **BetterNatroHook**: Allows you to view the progres of your natro macro from a website
 ## ⚡ Main Programming Languages I Use:
 - **HTML/CSS**: Building and styling responsive web pages/electron apps.
 - **JavaScript**: Bumbling projects of junk and sometimes fits needs.
