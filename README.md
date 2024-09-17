@@ -9,7 +9,7 @@ I'm a ~~passionate~~ developer with experience in **HTML**, **CSS**, **JavaScrip
 - **[Discord UserID Scraper](https://github.com/premiumfrog/discord-userid-scraper)**: A tool for scraping Discord user IDs.
 - **[Auto-HeightMapper](https://github.com/premiumfrog/Auto-HightMapper)**: Automates the process for heightmaps, primarily for noise/Roblox Studio.
 - **[Cross-Server Bans Bot](https://github.com/premiumfrog/Cross-Server-Bans-Bot)**: A bot to issue bans across Discord Servers.
-- 
+- **Kot**: Sends cat images in a specified channel, no repo yet.
 ## 📣 What i'm working on:
 - **BetterNatroHook**: Live viewing of your natro macro from a website or an overlay for obs.
 ## ⚡ Main Programming Languages I Use:
@@ -25,3 +25,7 @@ rip css injection coolest GitHub vuln 💔
 
 
 ## dead project graveyard 
+**lumin** - litterally only got to the port scanning part LOL, meant to be a "better" angryip thing, just got lazy
+**imgui2lib** - was meant to be a ui library for roblox, use in studio and scripts, never finished. might come back
+**catbot** - theres 3 versions, v1, v2, v3 might come back, working on KOT, posting source soon
+
