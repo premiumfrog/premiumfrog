@@ -26,6 +26,8 @@ rip css injection coolest GitHub vuln 💔
 
 ## dead project graveyard 
 **lumin** - litterally only got to the port scanning part LOL, meant to be a "better" angryip thing, just got lazy
+
 **imgui2lib** - was meant to be a ui library for roblox, use in studio and scripts, never finished. might come back
+
 **catbot** - theres 3 versions, v1, v2, v3 might come back, working on KOT, posting source soon
 
