@@ -10,8 +10,9 @@ I'm a ~~passionate~~ developer with experience in **HTML**, **CSS**, **JavaScrip
 - **[Auto-HeightMapper](https://github.com/premiumfrog/Auto-HightMapper)**: Automates the process for heightmaps, primarily for noise/Roblox Studio.
 - **[Cross-Server Bans Bot](https://github.com/premiumfrog/Cross-Server-Bans-Bot)**: A bot to issue bans across Discord Servers.
 - **Kot**: Sends cat images in a specified channel, no repo yet.
-## 📣 What i'm working on:
+## 📣 Projects ive worked on/working on:
 - **Boom Battles**: Game development project to get better at luau, 9/29/2024 - Present
+- **BYOT @ Reliance Limited**: Programmer/Devops management, 12/1/2024 - Present
 ## ⚡ Main Programming Languages I Use:
 - **HTML/CSS**: Building and styling responsive web pages/electron apps.
 - **JavaScript**: Bumbling projects of junk and sometimes fits needs.
