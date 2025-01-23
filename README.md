@@ -16,7 +16,7 @@ I'm a ~~passionate~~ developer with experience in **HTML**, **CSS**, **JavaScrip
 ## ⚡ Main Programming Languages I Use:
 - **HTML/CSS**: Building and styling responsive web pages/electron apps.
 - **JavaScript**: Bumbling projects of junk and sometimes fits needs.
-- **Lua**: Roblox anti-cheat/3rd Party tool development.
+- **Lua**: Game development, Roblox anti-cheat, and 3rd Party tool development.
 
 Feel free to explore my repositories and reach out on da cord @ premiumfrog.#0
 
@@ -29,6 +29,7 @@ rip css injection coolest GitHub vuln 💔
 **lumin** - litterally only got to the port scanning part LOL, meant to be a "better" angryip thing, just got lazy
 
 **imgui2lib** - was meant to be a ui library for roblox, use in studio and scripts, never finished. might come back
+turns out one already existed!!!
 
 **catbot** - theres 3 versions, v1, v2, v3 might come back, working on KOT, posting source soon
 
