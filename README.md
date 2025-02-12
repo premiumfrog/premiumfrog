@@ -12,7 +12,7 @@ I'm a ~~passionate~~ developer with experience in **HTML**, **CSS**, **JavaScrip
 - **Kot**: Sends cat images in a specified channel, no repo yet.
 ## 📣 Projects ive worked on/working on:
 - **Boom Battles**: Game development project to get better at luau, 9/29/2024 - Present
-- **BYOT @ Reliance Limited**: Programmer/Devops management, 12/1/2024 - Present
+- **BYOT @ Reliance Limited**: Programmer/Devops management, 12/1/2024 - 2/7/2025
 ## ⚡ Main Programming Languages I Use:
 - **HTML/CSS**: Building and styling responsive web pages/electron apps.
 - **JavaScript**: Bumbling projects of junk and sometimes fits needs.
